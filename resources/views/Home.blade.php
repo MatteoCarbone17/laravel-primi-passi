@@ -12,9 +12,7 @@
             Hello World!
         </h1>
         <p>
-            <?php
-                echo "Hello Laravel"
-            ?>
+           {{ "Goodbye Echo"  }}
         </p>
     </main>
 </body>
